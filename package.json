@@ -6,5 +6,20 @@
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/edm1001/s-networkapi18.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/edm1001/s-networkapi18/issues"
+    },
+    "homepage": "https://github.com/edm1001/s-networkapi18#readme",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.12"
     }
-}
+  }
